@@ -5,11 +5,9 @@ Home: https://github.com/h2oai/h2o-3
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/h2o-py-feedstock/blob/master/LICENSE.txt)
 
 Summary: H2O, Fast Scalable Machine Learning, for python
-
-
 
 Current build status
 ====================
