@@ -1,5 +1,5 @@
 {% set name = "h2o" %}
-{% set version = "3.32.0.5" %}
+{% set version = "3.32.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 21c0ea21419f3b4d705a499d4b54b56590e7a9896b8815f4c869667e541d328c
+  sha256: 268dae4b6d7da1c86b23aec66aa8129fcbd93db9e7acd5c1f0494f43acbdc42c
 
 build:
   number: 0
